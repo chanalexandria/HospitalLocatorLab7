@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hospital Locator</string>
+    <string name="google_maps_API_key">AIzaSyCAdW3g5lmvy9ZdlyUWlrZT31LP26voW6E</string>
+</resources>
